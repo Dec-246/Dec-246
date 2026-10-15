@@ -17,10 +17,9 @@ My name is Declan and I am a Software Engineer from England, South Yorkshire. I 
 ## 🖥 I have experience with the following:
 
 ### 💡 IDEs
-  - Visual Studio Code
-  - Visual Studio 2022
-  - Android studio
-  - JupyterLab
+  - Visual Studio Code/ 2022
+  - Android studio/ Xcode: Mobile App Dev
+  - JupyterLab: Machine Learning
 
 ### #️⃣ Languages
   - C++
